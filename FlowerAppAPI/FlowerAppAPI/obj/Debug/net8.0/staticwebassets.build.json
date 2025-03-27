@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7sKyXFRZvF6BZgmfet3K+dYy466i55uYQB7TaCmvMxo=",
+  "Source": "FlowerAppAPI",
+  "BasePath": "_content/FlowerAppAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

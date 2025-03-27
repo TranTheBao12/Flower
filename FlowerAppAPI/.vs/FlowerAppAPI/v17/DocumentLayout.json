@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Flower_app\\FlowerAppAPI - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB7261A-A040-4E01-9434-B9C62B2DF8CD}|FlowerAppAPI\\FlowerAppAPI.csproj|c:\\flower_app\\flowerappapi - copy\\flowerappapi\\controllers\\authenticatedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB7261A-A040-4E01-9434-B9C62B2DF8CD}|FlowerAppAPI\\FlowerAppAPI.csproj|solutionrelative:flowerappapi\\controllers\\authenticatedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB7261A-A040-4E01-9434-B9C62B2DF8CD}|FlowerAppAPI\\FlowerAppAPI.csproj|c:\\flower_app\\flowerappapi - copy\\flowerappapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB7261A-A040-4E01-9434-B9C62B2DF8CD}|FlowerAppAPI\\FlowerAppAPI.csproj|solutionrelative:flowerappapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB7261A-A040-4E01-9434-B9C62B2DF8CD}|FlowerAppAPI\\FlowerAppAPI.csproj|c:\\flower_app\\flowerappapi - copy\\flowerappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FB7261A-A040-4E01-9434-B9C62B2DF8CD}|FlowerAppAPI\\FlowerAppAPI.csproj|solutionrelative:flowerappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1795539884:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticatedController.cs",
+              "DocumentMoniker": "C:\\Flower_app\\FlowerAppAPI - Copy\\FlowerAppAPI\\Controllers\\AuthenticatedController.cs",
+              "RelativeDocumentMoniker": "FlowerAppAPI\\Controllers\\AuthenticatedController.cs",
+              "ToolTip": "C:\\Flower_app\\FlowerAppAPI - Copy\\FlowerAppAPI\\Controllers\\AuthenticatedController.cs",
+              "RelativeToolTip": "FlowerAppAPI\\Controllers\\AuthenticatedController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:34:21.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Flower_app\\FlowerAppAPI - Copy\\FlowerAppAPI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "FlowerAppAPI\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Flower_app\\FlowerAppAPI - Copy\\FlowerAppAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "FlowerAppAPI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:34:20.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Flower_app\\FlowerAppAPI - Copy\\FlowerAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FlowerAppAPI\\appsettings.json",
+              "ToolTip": "C:\\Flower_app\\FlowerAppAPI - Copy\\FlowerAppAPI\\appsettings.json",
+              "RelativeToolTip": "FlowerAppAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T09:28:32.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

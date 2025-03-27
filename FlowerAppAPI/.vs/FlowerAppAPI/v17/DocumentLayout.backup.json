@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FlowerAppAPI - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB7261A-A040-4E01-9434-B9C62B2DF8CD}|FlowerAppAPI\\FlowerAppAPI.csproj|d:\\flowerappapi - copy\\flowerappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FB7261A-A040-4E01-9434-B9C62B2DF8CD}|FlowerAppAPI\\FlowerAppAPI.csproj|solutionrelative:flowerappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1795539884:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FlowerAppAPI - Copy\\FlowerAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FlowerAppAPI\\appsettings.json",
+              "ToolTip": "D:\\FlowerAppAPI - Copy\\FlowerAppAPI\\appsettings.json",
+              "RelativeToolTip": "FlowerAppAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T09:28:32.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
